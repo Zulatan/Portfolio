@@ -7,15 +7,15 @@ body {
 }
 
 /*styling for everything related to the header*/
-.container {
-padding-top: 2rem;
-margin-bottom: 20rem;
+header {
+  margin-bottom: 400px;
+  padding-top: 2rem;
 }
 
 /*any changes related to the logo down below*/
 .logo a {
 float: left;
-font-size: 3.5rem;
+font-size: 5.5rem;
 font-family: 'DM Serif Display', serif;
 font-style: italic;
 color: white;
@@ -52,23 +52,29 @@ opacity: 20%;
 }
 
 /*everything related to the text in the middle of the screen - Mikkel Lau, Multimediadesign student and Portfolio txt*/
+.profile-container {
+  margin-top: ;
+}
+
 .name {
-font-size: 5rem;
+font-size: 150px;
 color: white;
-margin-left: 20rem;
+margin-left: 32rem;
 margin-right: auto;
 margin-top: 20rem;
 font-family: 'Montserrat', sans-serif;
 }
+
 .txt {
+font-size: 25px;
 color: white;
-margin-left: 20rem;
+margin-left: 32rem;
 margin-right: auto;
-text-decoration: underline dotted 0.3rem #ff4d5a;
 }
+
 .portfolio-txt {
 color: #ff4d5a;
-font-size: 7rem;
+font-size: 200px;
 float: left;
 transform: rotate(-90deg);
 margin-top: -7rem;
